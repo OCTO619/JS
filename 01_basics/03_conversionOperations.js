@@ -44,3 +44,5 @@ let num=2
 const x=++num
 console.log(x)
 console.log(num)
+// x++ -> returns value before incrementing 
+// ++x -> returns value after incrementing
